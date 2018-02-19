@@ -1,4 +1,5 @@
 # HTML-basics
+Download Sublime Text - https://www.sublimetext.com/
 
 Open Sublime Text (black window appears)
 
