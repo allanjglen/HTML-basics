@@ -18,3 +18,38 @@ In Sublime Text:
 	Right click, ‘New Folder’. Save it as ‘Images’
 
 Navigate to desktop folder, landing. Double-click on playground.html to open with Chrome
+
+PART 2
+
+Structure
+
+<!DOCTYPE html>
+
+<html>
+
+<!– html code -->
+
+</html>
+
+<!– end of file -->
+
+
+Head and Body
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<!-- Intelligence / metadata / design you can’t see -->
+	</head>
+	<body>
+	<!-- Content you can see -->
+	</body>
+</html>
+<!– end of file -->
+
+
+
+
+
+
+
